@@ -2,6 +2,9 @@
 - 👀 I’m interested in Web Development and Flutter Dev
 - 🌱 I’m currently learning Node JS.
 - ⚡ I'm a Computer Science Student.
+- 📚 I have worked in Python3(tkinter GUI, Kivy framework, basics)
+- 📚 I have worked in C++(SFML Graphics, basics)
+- 📚 I have worked in Java(SWING Graphics, basics)
 - 💞️ I’m looking for more lovely Technologies.
 - 📫 How to reach me: kamran.gondal.747@gmail.com
 - 💬 Feel free to contact me about anything.
