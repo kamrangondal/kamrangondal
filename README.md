@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Kamran Saif
 - 👀 I’m interested in Web Development and Flutter Dev
 - 🌱 I’m currently spending time in ReactJS, TypeScript, NodeJS and mongoDB.
-- ⚡ I'm a Computer Science Student.
-- 📚 I have worked in Python3(tkinter GUI, Kivy framework, basics)
-- 📚 I have worked in C++(SFML Graphics, basics)
-- 📚 I have worked in Java(SWING Graphics, basics)
+- ⚡ I'm a Computer Science Graduate.
+- 📚 I have worked in Python3(tkinter GUI, Kivy framework)
+- 📚 I have worked in C++(SFML Graphics)
+- 📚 I have worked in Java(SWING Graphics)
 - 💞️ I’m looking for more lovely Technologies.
 - 📫 How to reach me: kamran.gondal.747@gmail.com
 - 💬 Feel free to contact me about anything.
