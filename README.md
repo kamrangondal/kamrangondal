@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kamran Saif
 - 👀 I’m interested in Web Development and Flutter Dev
-- 🌱 I’m currently spending time in ReactJS, TypeScript, NodeJS and mongoDB.
+- 🌱 I’m currently spending time in ReactJS, NextJS, TypeScript, NodeJS and mongoDB.
 - ⚡ I'm a Computer Science Graduate.
 - 📚 I have worked in Python3(tkinter GUI, Kivy framework)
 - 📚 I have worked in C++(SFML Graphics)
